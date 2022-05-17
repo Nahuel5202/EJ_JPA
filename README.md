@@ -3,7 +3,8 @@ usando JPA, Base de Datos y Unidad de Persistencia
 
 
 
-AuthorService/EditorialService/BookService
+AuthorService/EditorialService/BookService-
+-
 Esta clase tiene la responsabilidad de llevar adelante las funcionalidades necesarias
 para administrar autores (consulta, creación, modificación y eliminación).
 
